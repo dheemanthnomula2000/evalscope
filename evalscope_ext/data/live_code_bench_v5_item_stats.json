@@ -1,0 +1,1587 @@
+{
+"benchmark": "live_code_bench_v5",
+"metric": "pass",
+"reference_models": [
+"gpt-oss-120b",
+"kimi-k2.5",
+"minimax-m2.5"
+],
+"n_items": 315,
+"items": [
+{
+"index": 0,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 1,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 2,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 3,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 4,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 5,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 6,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 7,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 8,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 9,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 10,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 11,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 12,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 13,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 14,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 15,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 16,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 17,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 18,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 19,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 20,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 21,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 22,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 23,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 24,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 25,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 26,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 27,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 28,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 29,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 30,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 31,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 32,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 33,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 34,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 35,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 36,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 37,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 38,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 39,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 40,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 41,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 42,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 43,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 44,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 45,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 46,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 47,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 48,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 49,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 50,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 51,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 52,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 53,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 54,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 55,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 56,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 57,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 58,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 59,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 60,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 61,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 62,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 63,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 64,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 65,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 66,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 67,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 68,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 69,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 70,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 71,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 72,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 73,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 74,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 75,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 76,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 77,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 78,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 79,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 80,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 81,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 82,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 83,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 84,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 85,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 86,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 87,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 88,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 89,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 90,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 91,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 92,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 93,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 94,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 95,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 96,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 97,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 98,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 99,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 100,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 101,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 102,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 103,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 104,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 105,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 106,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 107,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 108,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 109,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 110,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 111,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 112,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 113,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 114,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 115,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 116,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 117,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 118,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 119,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 120,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 121,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 122,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 123,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 124,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 125,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 126,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 127,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 128,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 129,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 130,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 131,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 132,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 133,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 134,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 135,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 136,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 137,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 138,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 139,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 140,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 141,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 142,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 143,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 144,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 145,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 146,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 147,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 148,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 149,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 150,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 151,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 152,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 153,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 154,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 155,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 156,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 157,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 158,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 159,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 160,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 161,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 162,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 163,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 164,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 165,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 166,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 167,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 168,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 169,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 170,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 171,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 172,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 173,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 174,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 175,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 176,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 177,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 178,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 179,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 180,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 181,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 182,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 183,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 184,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 185,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 186,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 187,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 188,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 189,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 190,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 191,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 192,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 193,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 194,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 195,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 196,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 197,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 198,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 199,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 200,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 201,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 202,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 203,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 204,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 205,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 206,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 207,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 208,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 209,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 210,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 211,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 212,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 213,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 214,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 215,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 216,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 217,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 218,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 219,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 220,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 221,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 222,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 223,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 224,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 225,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 226,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 227,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 228,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 229,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 230,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 231,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 232,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 233,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 234,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 235,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 236,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 237,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 238,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 239,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 240,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 241,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 242,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 243,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 244,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 245,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 246,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 247,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 248,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 249,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 250,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 251,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 252,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 253,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 254,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 255,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 256,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 257,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 258,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 259,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 260,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 261,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 262,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 263,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 264,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 265,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 266,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 267,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 268,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 269,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 270,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 271,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 272,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 273,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 274,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 275,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 276,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 277,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 278,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 279,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 280,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 281,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 282,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 283,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 284,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 285,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 286,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 287,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 288,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 289,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 290,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 291,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 292,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 293,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 294,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 295,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 296,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 297,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 298,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 299,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 300,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 301,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 302,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 303,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 304,
+"difficulty": 0.0,
+"discrimination": 0.0
+},
+{
+"index": 305,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 306,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 307,
+"difficulty": 0.6667,
+"discrimination": 0.2222
+},
+{
+"index": 308,
+"difficulty": 0.3333,
+"discrimination": 0.2222
+},
+{
+"index": 309,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 310,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 311,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 312,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 313,
+"difficulty": 1.0,
+"discrimination": 0.0
+},
+{
+"index": 314,
+"difficulty": 1.0,
+"discrimination": 0.0
+}
+]
+}
