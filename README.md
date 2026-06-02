@@ -1,3 +1,8 @@
+> **Task 2 submission — benchmark pruning extension.**
+> Code in `evalscope_ext/`. Developed against evalscope commit `de7b0b3f08c617f48a00ef09f7169dc74212a6d9`.
+> See `HANDOUT_A_why_this_works.md` and `HANDOUT_B_why_this_matters.md`.
+
+
 <p align="center">
     <br>
     <img src="docs/en/_static/images/evalscope_logo.png"/>
